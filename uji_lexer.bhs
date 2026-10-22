@@ -1,0 +1,9 @@
+nilai = 85
+pi = 3.14
+nama = "Budi"
+
+jika nilai >= 80:
+    cetak('Lulus')
+selain:
+    cetak("Gagal")
+akhir
